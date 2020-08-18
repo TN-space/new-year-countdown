@@ -1,0 +1,24 @@
+{
+  "name": "new-year-countdown",
+  "version": "1.0.0",
+  "description": "Simple New Year Countdown app, using vanilla JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d new-year-countdown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TN-space/new-year-countdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TN-space/new-year-countdown/issues"
+  },
+  "homepage": "https://TN-space.github.io/TN-space/new-year-countdown"
+}
